@@ -1,6 +1,6 @@
 const CACHE_KEY = "calculation_history";
 const history = {
-    firstNumber: calculator.firstNumber,
+    firstNumber: calculator.firgitstNumber,
     secondNumber: calculator.displayNumber,
     operator: calculator.operator,
     result: result
