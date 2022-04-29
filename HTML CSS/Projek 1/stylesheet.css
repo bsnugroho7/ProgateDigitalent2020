@@ -29,6 +29,7 @@ li {
 
 .copy-container h1 {
   font-size: 140px;
+  color: #2f5167;
 }
 
 .copy-container h2 {
@@ -36,7 +37,7 @@ li {
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #26d0c9;
 }
 
 .contents {
